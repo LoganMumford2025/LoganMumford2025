@@ -11,7 +11,7 @@ Passionate about IT and hands-on learning, I use my home lab to develop skills i
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory                              |Home Lab Active Directory   |
+| Active Directory                              |<a href="https://github.com/LoganMumford2025/Active-Directory-and-Security-Lab/blob/main/README.md">Active Directory and Security Lab</a>   |
 
 ## Certifications
 
@@ -21,4 +21,4 @@ Passionate about IT and hands-on learning, I use my home lab to develop skills i
 </div>
 
 ## Projects
-- Wazuh SIEM Monitoring Lab
+- <a href="https://github.com/LoganMumford2025/Active-Directory-and-Security-Lab/blob/main/README.md">Active Directory and Security Lab</a>
