@@ -11,6 +11,7 @@ Passionate about IT and hands-on learning, I use my home lab to develop skills i
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Virtual Machine Management, Installing OS, VLAN Setup, Firewall Configuration | <a href="https://github.com/LoganMumford2025/Home-Lab-Build">Home Lab Build</a> |
 | Active Directory                              |<a href="https://github.com/LoganMumford2025/Active-Directory-and-Security-Lab/blob/main/README.md">Active Directory and Security Lab</a>   |
 
 ## Certifications
