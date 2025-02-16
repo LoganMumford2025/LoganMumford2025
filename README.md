@@ -23,3 +23,4 @@ Passionate about IT and hands-on learning, I use my home lab to develop skills i
 
 ## Projects
 - <a href="https://github.com/LoganMumford2025/Active-Directory-and-Security-Lab/blob/main/README.md">Active Directory and Security Lab</a>
+- <a href="https://github.com/LoganMumford2025/Home-Lab-Build">Logan Home Lab</a>
