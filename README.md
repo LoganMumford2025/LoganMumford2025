@@ -1,4 +1,4 @@
-## Hi there Welcome to my GitHub Profile👋
+## Welcome to my GitHub Profile
 
 <a href="https://www.linkedin.com/in/loganamumford2011/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
