@@ -14,6 +14,7 @@ Passionate about IT and hands-on learning, I use my home lab to develop skills i
 | Virtual Machine Management, Installing OS, VLAN Setup, Firewall Configuration | <a href="https://github.com/LoganMumford2025/Home-Lab-Build">Home Lab Build</a> |
 | Active Directory, SIEM, Security                              |<a href="https://github.com/LoganMumford2025/Active-Directory-and-Security-Lab/blob/main/README.md">Active Directory and Security Lab</a>   |
 | Self-Hosted A.I Assistant Bot |<a href="https://github.com/LoganMumford2025/Personal-A.I.-Linux-Teacher?tab=readme-ov-file#readme">Personal-A.I. Instructor and Assistant</a> |
+| Tech Support and Cybersecurity Defense | <a href="https://github.com/LoganMumford2025/Remote-IT-Support-and-Hardened-Network?tab=readme-ov-file#remote-it-support-and-hardened-network-solution">Remote IT Support and Hardened Network Solution</a> |
 
 ## Certifications
 
